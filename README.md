@@ -54,7 +54,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-Open the **EDA.ipynb** file and start exploring!
 
 ---
 
@@ -68,7 +67,7 @@ Want to contribute? Follow these steps:
 ---
 
 ## 📌 **Useful Links**
-📌 **Dataset**: [YouTube API Dataset](https://developers.google.com/youtube/registering_an_application)  
-📌 **Project Discussion**: [GitHub Discussions](https://github.com/Intern-Career/YouTube-Data-Analysis/discussions)  
+📌 **Dataset**: [YouTube API Dataset](https://github.com/iamAntimPal)  
+📌 **Project Discussion**: [GitHub Discussions](https://github.com/iamAntimPal/LeetCode_SQL_Database/discussions)  
 
 💡 **Let's analyze YouTube like a Pro!** 🚀
